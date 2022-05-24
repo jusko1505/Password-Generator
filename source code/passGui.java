@@ -23,10 +23,7 @@ public class passGui extends JFrame
 
     public void createGui()
     {
-        /*
-        Random rand = new Random();
-        numbersLettersSymbols(10);
-        */
+       
         
         JPanel panel = new JPanel();
         JFrame frame = new JFrame("Password Generator");
